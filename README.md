@@ -21,7 +21,7 @@ Edspert.ID: Microsoft Excel Hacks           | KlassData: Data Analyst Career Pro
 ### Data Analyst Certificate
 Digital Talent Scholarship: Data Analyts          | Skill Academy Camp: The Fundamental Data Analyst 
 :-------------------------:|:-------------------------:
-![](https://raw.githubusercontent.com/Erykka/Erykka/main/1684144215393.jpg) |![](https://raw.githubusercontent.com/Erykka/Erykka/main/photo_6337108603709800904_y.jpg)
+![](https://raw.githubusercontent.com/Erykka/Erykka/main/Data Analyst Digitalent.jpg) |![](https://raw.githubusercontent.com/Erykka/Erykka/main/Data Analyst Skill Academy.jpg)
 
 <!--
 **Erykka/Erykka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
