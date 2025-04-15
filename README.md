@@ -29,6 +29,9 @@ Puspresnas: Finalis Divisi Statistics Essay (SEC)
 :-------------------------------------------:
 ![](https://raw.githubusercontent.com/Erykka/Erykka/main/ErykkaSECFinalist-certificate.png)
 
+
+### Academic Paper
+1. [Indonesian provincial clustering using Elbow method for the national food security during pandemic](https://journal2.uad.ac.id/index.php/BAMME/article/view/6166)
 <!--
 **Erykka/Erykka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
