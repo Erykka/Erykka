@@ -11,6 +11,12 @@ Junior Data Analyst with a strong background in mathematics and hands-on experie
   <a href="https://twitter.com/Erykka_ystr" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
+### Data Analyst Speaker Session
+
+Edspert.ID: Microsoft Excel Hacks           | KlassData: Data Analyst Career Prospect Webinar 
+:-------------------------:|:-------------------------:
+![](https://raw.githubusercontent.com/Erykka/Erykka/main/1684144215393.jpg) |![](https://raw.githubusercontent.com/Erykka/Erykka/main/photo_6337108603709800904_y.jpg)
+[Webinar Edspert.ID](https://www.linkedin.com/posts/erykka-yustari-1b88a1190_microsoftexcel-microsoftexceltraining-webinarexcel-activity-7063812828507369472-TRvW?utm_source=share&utm_medium=member_desktop&rcm=ACoAACz7UdwB6EluBsgTIHJNCq79NkqbMJCi5YU) | [Webinar KlassData](https://www.instagram.com/p/DEv2nowzdIj/?igsh=M2s0ODhreWhhbmVk)
 <!--
 **Erykka/Erykka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
