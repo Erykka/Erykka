@@ -20,7 +20,7 @@ Edspert.ID: Microsoft Excel Hacks           | KlassData: Data Analyst Career Pro
 
 ### Data Analyst Certificate
 
-Digital Talent Scholarship: Data Analysts     | Skill Academy Camp: The Fundamental Data Analyst  
+Digital Talent Scholarship: Data Analyst     | Skill Academy Camp: The Fundamental Data Analyst  
 :-------------------------------------------:|:-----------------------------------------------:
 ![](https://raw.githubusercontent.com/Erykka/Erykka/main/ErykkaFGA-certificate.png) |![](https://raw.githubusercontent.com/Erykka/Erykka/main/ErykkaRG-certificate.png)
 
