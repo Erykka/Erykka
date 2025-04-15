@@ -22,7 +22,7 @@ Edspert.ID: Microsoft Excel Hacks           | KlassData: Data Analyst Career Pro
 
 Digital Talent Scholarship: Data Analysts     | Skill Academy Camp: The Fundamental Data Analyst  
 :-------------------------------------------:|:-----------------------------------------------:
-![](https://raw.githubusercontent.com/Erykka/Erykka/main/DataAnalystDigitalent.jpg) |![](https://raw.githubusercontent.com/Erykka/Erykka/main/ErykkaRG-certificate.png)
+![](https://raw.githubusercontent.com/Erykka/Erykka/main/ErykkaFGA-certificate.png) |![](https://raw.githubusercontent.com/Erykka/Erykka/main/ErykkaRG-certificate.png)
 
 ### Award
 Puspresnas: Finalis Divisi Statistics Essay (SEC) 
