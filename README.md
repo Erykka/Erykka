@@ -18,9 +18,16 @@ Edspert.ID: Microsoft Excel Hacks           | KlassData: Data Analyst Career Pro
 ![](https://raw.githubusercontent.com/Erykka/Erykka/main/1684144215393.jpg) |![](https://raw.githubusercontent.com/Erykka/Erykka/main/photo_6337108603709800904_y.jpg)
 [Webinar Edspert.ID](https://www.linkedin.com/posts/erykka-yustari-1b88a1190_microsoftexcel-microsoftexceltraining-webinarexcel-activity-7063812828507369472-TRvW?utm_source=share&utm_medium=member_desktop&rcm=ACoAACz7UdwB6EluBsgTIHJNCq79NkqbMJCi5YU) | [Webinar KlassData](https://www.instagram.com/p/DEv2nowzdIj/?igsh=M2s0ODhreWhhbmVk)
 
+### Data Analyst Certificate
+
 Digital Talent Scholarship: Data Analysts     | Skill Academy Camp: The Fundamental Data Analyst  
 :-------------------------------------------:|:-----------------------------------------------:
-![](https://raw.githubusercontent.com/Erykka/Erykka/main/DataAnalystDigitalent.jpg) |![](https://raw.githubusercontent.com/Erykka/Erykka/main/DataAnalystSkillAcademy.jpg)
+![](https://raw.githubusercontent.com/Erykka/Erykka/main/DataAnalystDigitalent.jpg) |![](https://raw.githubusercontent.com/Erykka/Erykka/main/ErykkaRG-certificate.png)
+
+### Award
+Puspresnas: Finalis Divisi Statistics Essay (SEC) 
+:-------------------------------------------:
+![](https://raw.githubusercontent.com/Erykka/Erykka/main/ErykkaSECFinalist-certificate.png)
 
 <!--
 **Erykka/Erykka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
